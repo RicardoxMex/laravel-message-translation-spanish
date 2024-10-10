@@ -33,3 +33,4 @@ Abre el archivo config/app.php y establece la configuración de la localización
 
 
 
+# laravel-message-translation-spanish
