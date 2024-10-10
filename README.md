@@ -22,7 +22,7 @@ Para usar estas traducciones en tu proyecto Laravel, sigue estos pasos:
    Navega a la carpeta raíz de tu proyecto Laravel y ejecuta el siguiente comando:
 
    ```bash
-   git clone https://github.com/RicardoxMex/laravel-message-translation-spanish.git lang/es
+   git clone https://github.com/RicardoxMex/laravel-message-translation-spanish.git lang
 
 Esto clonará el contenido del repositorio dentro de la carpeta lang/es de tu proyecto.
 
